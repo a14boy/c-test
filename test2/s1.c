@@ -10,5 +10,6 @@
 
 int main(void){
 	printf("hello world!");
+	printf("\nmy name is Tan");
 	return 0;
 }
